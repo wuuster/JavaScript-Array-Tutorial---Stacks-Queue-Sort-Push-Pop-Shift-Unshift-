@@ -2,7 +2,7 @@ JavaScript-Array-Tutorial---Stacks-Queue-Sort-Push-Pop-Shift-Unshift-
 =====================================================================
 
 ####Koiwu Beyan
-www.koiwu.com
+www.koiwu.com/demo/array
 
 Demonstration of Stacks, Queues, and Sorting with JavaScript and JQuery functions using:
 >sort()
