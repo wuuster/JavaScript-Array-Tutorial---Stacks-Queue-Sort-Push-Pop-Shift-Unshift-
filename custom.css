@@ -1,0 +1,50 @@
+/* CUSTOM CSS: COPYRIGHT, KOIWU BEYAN*/
+body{
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+
+.array_class{
+	margin: 0;
+	padding: 0;
+	display: block
+}
+#create_id{
+	background: #71AD2B;
+	color: #FFFFFF;
+	display: inline;
+}
+
+
+#clear_id{
+	background: #A61000;
+	color: #FFFFFF;
+}
+
+.buttons {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #DDDDDD;
+    color: #333333;
+    padding: 5px 20px;
+    display: none;
+}
+
+.controls{ 
+	position: fixed;
+	text-align:  center;
+	padding: 50px;
+	font-size: 11px;
+	letter-spacing: 0.1em;
+	margin-top: 20px;
+	background-color: #F9F9F9;
+	border-top: 1px solid #dddddd;
+	width: 100%;
+	bottom: 0;
+	opacity: 0.8;	
+	}
+
+#array_class{
+	
+}
+
