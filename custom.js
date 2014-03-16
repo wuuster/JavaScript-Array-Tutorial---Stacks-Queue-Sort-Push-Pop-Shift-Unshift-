@@ -2,7 +2,7 @@
    http://www.koiwu.com
 */
 
-//Global Declarations isn't necessarily a bad thing
+//Global Declarations isn't necessarily a bad thing, just know when and how to use it.
 var list;
 //Create an Array
 
