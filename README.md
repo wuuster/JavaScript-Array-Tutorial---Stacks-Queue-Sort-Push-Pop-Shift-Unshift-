@@ -1,4 +1,4 @@
-JavaScript-Array-Tutorial---Stacks-Queue-Sort-Push-Pop-Shift-Unshift-Slice
+JavaScript-Array-Tutorial - Stacks, Queue, Sort, Push, Pop, Shift, Unshift, Slice
 =====================================================================
 
 ####Koiwu Beyan
