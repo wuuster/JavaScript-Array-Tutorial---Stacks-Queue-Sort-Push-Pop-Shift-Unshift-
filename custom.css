@@ -44,3 +44,29 @@ body{
 	opacity: 0.8;	
 	}
 
+#array_class{
+	
+}
+
+#array_class li {
+    border: 1px solid #DDDDDD;
+    color: #777777;
+    display: block;
+    list-style: none outside none;
+    margin: 10px auto;
+    padding: 5px 10px;
+    width: 80%;
+}
+
+#array_class li:hover {
+   color: #000000;
+   background-color: #eeeeee
+}
+
+.instructions{
+	display: none;
+	font-size:11px;
+	text-align: center;
+	color: #555555;
+	padding: 15px 0 0 0;
+	}
