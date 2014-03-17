@@ -1,4 +1,4 @@
-JavaScript-Array-Tutorial---Stacks-Queue-Sort-Push-Pop-Shift-Unshift-
+JavaScript-Array-Tutorial---Stacks-Queue-Sort-Push-Pop-Shift-Unshift-Slice
 =====================================================================
 
 ####Koiwu Beyan
@@ -15,4 +15,4 @@ Demonstration of Stacks, Queues, and Sorting with JavaScript and JQuery function
 
 >pop()
 
->slice() - Not demonstrated in this tutorial.
+>slice() 
