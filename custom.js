@@ -17,9 +17,8 @@ function sort_f() {
     var last_item = list[list.length - 1];
     if (last_item > first_item) {
         list.sort(function(a, b) {
-            return a - b
+            return b - a;
         });
-        list.reverse();
     } else {
         list.sort(function(a, b) {
             return a - b
