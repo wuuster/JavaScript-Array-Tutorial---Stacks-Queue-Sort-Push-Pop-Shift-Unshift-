@@ -2,8 +2,6 @@ JavaScript Array Tutorial - Stacks, Queue, Sort, Push, Pop, Shift, Unshift, Slic
 =====================================================================
 
 ####Koiwu Beyan
-www.koiwu.com/demo/arrays
-
 Demonstration of Stacks, Queues, and Sorting with JavaScript and JQuery functions using:
 >sort()
 
